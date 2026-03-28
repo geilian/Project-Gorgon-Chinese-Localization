@@ -1,0 +1,8 @@
+{
+	"Credits": "Elder Game, LLC   <--- replace with the names of translation team",
+	"Description": "These are the default English strings built into the game client. They're provided as a basis for volunteer translations.",
+	"Format": 1,
+	"Name": "English Language Default Strings",
+	"Notes": "Don't forget to update this file (version.json) before giving your translation directory to others!",
+	"Version": "v1.0   <--- use any version format you want here"
+}
