@@ -1,6 +1,5 @@
 # Project-Gorgon-Chinese-Localization
 Project: Gorgon 中文本地化工作
-
 安装方法：
 在%localappdata%Low\Elder Game\Project Gorgon下创建一个Translation目录，将所有文件解压放在里面即可
 
