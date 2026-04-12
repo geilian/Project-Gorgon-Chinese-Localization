@@ -22,6 +22,7 @@
 	"ai_GiantScorpion_Comment": "Nigh Invulnerable Until Knocked Back",
 	"ai_Harmless_Stationary_TrollStyle_Comment": "Auto-Heals Unless On Fire",
 	"ai_IceDroach_Comment": "Extra Damage After Armor Depleted",
+	"ai_InfectedSwarm_Comment": "Vulnerable to Bursts",
 	"ai_LightningBoltAura_Comment": "Destroyed By Knockback",
 	"ai_LongRangeTurretCrystalFragile_Comment": "Destroyed By Knockback",
 	"ai_OceanDroach_Comment": "Extra Damage After Armor Depleted",

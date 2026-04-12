@@ -309,6 +309,8 @@
 	"npcinfo_NPC_DukeOfFlapbule_AreaFriendlyName": "Statehelm",
 	"npcinfo_NPC_DukeOfFlapbule_Desc": "A bat!",
 	"npcinfo_NPC_DukeOfFlapbule_Name": "Duke of Flapbule",
+	"npcinfo_NPC_DukeOfFlapbule_Preferences_0_Name": "Bat Equipment",
+	"npcinfo_NPC_DukeOfFlapbule_Preferences_1_Name": "Spirit Fox Equipment",
 	"npcinfo_NPC_DurstinTallow_AreaFriendlyName": "Serbule Hills",
 	"npcinfo_NPC_DurstinTallow_Desc": "Middle-aged and hardy",
 	"npcinfo_NPC_DurstinTallow_Name": "Durstin Tallow",
