@@ -1,7 +1,9 @@
 {
+	"CdnFileVersion": "467",
 	"Credits": "Geilian",
-	"Description": "适用于Project: Gorgon V466版本",
+	"Description": "适用于Project: Gorgon V467版本",
 	"Format": 1,
-	"Name": "简体中文汉化版",
-	"Version": "v466.5.1"
+	"LanguageCode": "zh-CN",
+	"Name": "Project: Gorgon简体中文汉化版",
+	"Version": "v467.6.2"
 }
