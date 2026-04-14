@@ -1196,8 +1196,6 @@
 	"effect_13331_Name": "Crafting Epiphany",
 	"effect_13332_Desc": "(the difference between this and GiveCombatWisdomForProdigyLevelUp is that player's buffs/debuffs aren't applied to the amount given)",
 	"effect_13332_Name": "-",
-	"effect_13333_Desc": "-",
-	"effect_13333_Name": "-",
 	"effect_13334_Desc": "You earned a Prodigy level and had an epiphany. Your mind is briefly open to new ideas.\nx2 Chance for Combat Wisdom from Elites\n+50% Combat Wisdom Earned\n+50% Combat Prodigy XP Earned",
 	"effect_13334_Name": "Prodigal Epiphany",
 	"effect_1333_Desc": "Something's growing inside of you. It's the miracle of life!",
