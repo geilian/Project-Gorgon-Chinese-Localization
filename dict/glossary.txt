@@ -542,6 +542,7 @@ Fae Realm=妖精之域
 Povus=波瓦斯
 Vidaria=维达利亚
 Statehelm=斯特海姆城
+Wintertide=冬潮号
 #=======ability======
 World Boss Ciervos Nightmare Hoof=世界Boss塞沃斯梦魇之蹄
 TurretCrystalZapMediumRangeSlow=炮塔水晶中距电击慢
