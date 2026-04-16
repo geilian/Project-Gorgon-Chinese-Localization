@@ -359,7 +359,7 @@
     "ui.itemtooltip.label.dissolving": "此物品会随时间消失。",
     "ui.itemtooltip.label.doses": "剩余剂量",
     "ui.itemtooltip.label.durability": "耐久度",
-    "ui.itemtooltip.label.foretold": "<b>预言中提及</b>",
+    "ui.itemtooltip.label.foretold": "<b>预言所载</b>",
     "ui.itemtooltip.label.hardcore": "需要硬核死亡惩罚模式",
     "ui.itemtooltip.label.macguffin": "此物品是完成特定任务所需，无其他用途。",
     "ui.itemtooltip.label.mastercrafted": "<b>大师级装备</b>",
