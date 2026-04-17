@@ -4,7 +4,7 @@
     "Food_Duration_Gourmand": "持续 {0} 分钟（外加美食家加成）",
     "Food_Duration_NoGourmand": "持续 {0} 分钟（无美食家加成！）",
     "Food_Effect_Level_InstantSnack": "等级 {0} 即时小吃",
-    "Food_Effect_Level_Meal": "等级 {0} 餐点",
+    "Food_Effect_Level_Meal": "等级 {0} 正餐",
     "Food_Effect_Level_Snack": "等级 {0} 零食",
     "Food_ElementalMitigation": "直接火焰/寒冷/电击抗性 +{0}",
     "Food_HellfireCostReduction": "地狱火消耗降低：{0}%",

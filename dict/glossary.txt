@@ -445,6 +445,7 @@ Knife Fighting=匕首格斗
 Mentalism=心灵魔法
 Necromancy=亡灵术
 Priest=牧师
+Warden=守望者
 Psychology=精神魔法
 Shield=盾牌
 Staff=棍术
