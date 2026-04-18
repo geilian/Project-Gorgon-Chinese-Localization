@@ -6843,7 +6843,7 @@
 	"power_15106_Tiers_id_8_EffectDescs_0": "Ice Armor instantly restores 40 Health",
 	"power_15106_Tiers_id_9_EffectDescs_0": "Ice Armor instantly restores 45 Health",
 	"power_15107_Prefix": "Fast and Slippery",
-	"power_15107_Tiers_id_1_EffectDescs_0": "Ice Armor has no slowdown effect and instead boosts Sprint Speed +8. However, any Knockback Ingore Chance is nullified while Ice Armor is active.",
+	"power_15107_Tiers_id_1_EffectDescs_0": "Ice Armor has no slowdown effect and instead boosts Sprint Speed +8. However, any Knockback Ignore Chance is nullified while Ice Armor is active.",
 	"power_15151_Prefix": "Frozen",
 	"power_15151_Tiers_id_10_EffectDescs_0": "Freeze Solid and Frostbite Damage +38%",
 	"power_15151_Tiers_id_11_EffectDescs_0": "Freeze Solid and Frostbite Damage +42%",
