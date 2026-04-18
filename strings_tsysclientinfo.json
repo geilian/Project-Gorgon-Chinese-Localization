@@ -6843,7 +6843,7 @@
     "power_15106_Tiers_id_8_EffectDescs_0": "冰霜护甲立即恢复 40 点生命值",
     "power_15106_Tiers_id_9_EffectDescs_0": "冰霜护甲立即恢复 45 点生命值",
     "power_15107_Prefix": "快速且滑溜",
-    "power_15107_Tiers_id_1_EffectDescs_0": "冰霜护甲无减速效果，改为提升冲刺速度 +8.。但冰霜护甲激活期间，任何击退无视几率均失效。",
+    "power_15107_Tiers_id_1_EffectDescs_0": "冰霜护甲没有减速效果，反而提升冲刺速度+8。然而，当冰霜护甲激活时，任何击退无视几率均无效。",
     "power_15151_Prefix": "冰冻",
     "power_15151_Tiers_id_10_EffectDescs_0": "冻结与霜冻伤害 +38%",
     "power_15151_Tiers_id_11_EffectDescs_0": "冻结与霜冻伤害 +42%",

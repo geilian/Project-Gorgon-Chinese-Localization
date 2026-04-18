@@ -16,3 +16,5 @@ V466.3.4: Fixed some translation issue
 V466.4.1: Added equipment affix translation
 
 V466.5.1: Added translation with buff effect
+
+V470.6.5: Updated and fix many translation issue
