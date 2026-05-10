@@ -402,7 +402,6 @@ Mindreave=心灵侵蚀
 Fire Arrow=火焰箭
 Cold Sphere=寒冰法球
 See Red=狂怒
-Claw Barrage=利爪连击
 #==========物品名===========
 Parasol Mushroom=伞菇
 Mycena Mushroom=小菇
