@@ -1357,5 +1357,17 @@
 	"Title_55_Title": "<color=white>400th Time's the Charm</color>",
 	"Title_55_Tooltip": "Obtained during the 400th published build of Project: Gorgon",
 	"Title_56_Title": "<color=white>Title Not Found</color>",
-	"Title_56_Tooltip": "Obtained by using the command /404 during the 400th published build of Project: Gorgon. (This one's just for the JSON-sniffers.)"
+	"Title_56_Tooltip": "Obtained by using the command /404 during the 400th published build of Project: Gorgon. (This one's just for the JSON-sniffers.)",
+	"Title_57_Title": "<color=white>Mysterious Not-So-Stranger</color>",
+	"Title_57_Tooltip": "Obtained by claiming 50 daily login rewards.",
+	"Title_58_Title": "<color=white>Town Local</color>",
+	"Title_58_Tooltip": "Obtained by claiming 100 daily login rewards.",
+	"Title_59_Title": "<color=white>Been Here Dozens of Times</color>",
+	"Title_59_Tooltip": "Obtained by claiming 24 daily login rewards.",
+	"Title_60_Title": "<color=white>You've Definitely Seen Me Around</color>",
+	"Title_60_Tooltip": "Obtained by claiming 75 daily login rewards.",
+	"Title_61_Title": "<color=white>I'm Here Rain or Shine</color>",
+	"Title_61_Tooltip": "Obtained by claiming 150 daily login rewards.",
+	"Title_62_Title": "<color=white>Nothing If Not Persistent</color>",
+	"Title_62_Tooltip": "Obtained by claiming 200 daily login rewards."
 }
