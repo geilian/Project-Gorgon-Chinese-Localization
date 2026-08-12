@@ -1357,5 +1357,17 @@
     "Title_55_Title": "<color=white>第 400 次尝试终获成功</color>",
     "Title_55_Tooltip": "在 Project: Gorgon 第 400 次发布版本期间获得",
     "Title_56_Title": "<color=white>称号未找到</color>",
-    "Title_56_Tooltip": "在 Project: Gorgon 第 400 次发布版本期间，使用 /404 命令获得。（这个只是给 JSON 嗅探者的。）"
+    "Title_56_Tooltip": "在 Project: Gorgon 第 400 次发布版本期间，使用 /404 命令获得。（这个只是给 JSON 嗅探者的。）",
+    "Title_57_Title": "<color=white>神秘的非陌生人</color>",
+    "Title_57_Tooltip": "通过领取 50 天每日登录奖励获得。",
+    "Title_58_Title": "<color=white>本地镇民</color>",
+    "Title_58_Tooltip": "通过领取 100 天每日登录奖励获得。",
+    "Title_59_Title": "<color=white>来过这里几十次</color>",
+    "Title_59_Tooltip": "通过领取 24 天每日登录奖励获得。",
+    "Title_60_Title": "<color=white>你肯定见过我</color>",
+    "Title_60_Tooltip": "通过领取 75 天每日登录奖励获得。",
+    "Title_61_Title": "<color=white>无论晴雨我都在这里</color>",
+    "Title_61_Tooltip": "通过领取 150 天每日登录奖励获得。",
+    "Title_62_Title": "<color=white>坚持不懈</color>",
+    "Title_62_Tooltip": "通过领取 200 天每日登录奖励获得。"
 }
