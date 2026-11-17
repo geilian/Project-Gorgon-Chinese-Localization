@@ -8,6 +8,8 @@
 	"storagevault_*AdminStorage_NpcFriendlyName": "Admin Storage Area",
 	"storagevault_AdminTestNpc_NpcFriendlyName": "Admin Test NPC",
 	"storagevault_AdminTestNpc_RequirementDescription": "Potions and Alchemy Ingredients",
+	"storagevault_ArmorRack_NpcFriendlyName": "Player-Made Armor Rack",
+	"storagevault_ArmorRack_RequirementDescription": "Equipment (Weapons and Armor)",
 	"storagevault_BoxOfSpace2_NpcFriendlyName": "Large Box of Space",
 	"storagevault_BoxOfSpace_NpcFriendlyName": "Small Box of Space",
 	"storagevault_CouncilVault_NpcFriendlyName": "Council Storage Machine",
