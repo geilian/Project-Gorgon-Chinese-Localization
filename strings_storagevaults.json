@@ -8,6 +8,8 @@
     "storagevault_*AdminStorage_NpcFriendlyName": "管理员存储区",
     "storagevault_AdminTestNpc_NpcFriendlyName": "管理员测试NPC",
     "storagevault_AdminTestNpc_RequirementDescription": "药水和炼金材料",
+    "storagevault_ArmorRack_NpcFriendlyName": "玩家制作的护甲架",
+    "storagevault_ArmorRack_RequirementDescription": "装备（武器与护甲）",
     "storagevault_BoxOfSpace2_NpcFriendlyName": "大号空间盒",
     "storagevault_BoxOfSpace_NpcFriendlyName": "小号空间盒",
     "storagevault_CouncilVault_NpcFriendlyName": "议会存储机",
